@@ -1,4 +1,4 @@
-### Hi there 👋
+![banner photo lying in a canyon](https://res.cloudinary.com/dbljwcjis/image/upload/v1623686498/IMG_20210614_113442_1_d8stog.jpg)
 
 <!--
 **egrivalsky/egrivalsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
